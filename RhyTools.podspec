@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   testing framework
                    DESC
 
-  s.homepage         = 'www.rhydev.com'
+  s.homepage         = 'https://www.astrapay.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yohansp' => 'yohan.sp@gmail.com' }
